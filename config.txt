@@ -1,0 +1,6 @@
+{
+	"ip":"AnarcchiaSmpp.aternos.me",
+	"port": "30503",
+	"name": "Zalozyciel_Afk",
+	"auto-night-skip":"false"
+}
